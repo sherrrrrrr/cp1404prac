@@ -12,3 +12,4 @@ print("The dynamically typed languages are:")
 for language in languages_list:
     if language.is_dynamic():
         print(language.name)
+
