@@ -1,0 +1,3 @@
+    def is_vintage(self, current_year):
+        return self.get_age(current_year) >= 50
+        \
